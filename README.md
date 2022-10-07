@@ -13,4 +13,4 @@ This is a collection of some of my submissions to codingame puzzles.
 
 | Name | Platform |
 | ---- | -------- |
-| [`graffiti-on-the-fence`](./puzzles/graffiti-on-the-fence) | codingame |
+| [`graffiti-on-the-fence`](./puzzles/graffiti-on-the-fence.ts) | codingame |
