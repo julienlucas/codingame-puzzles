@@ -15,3 +15,4 @@ This is a collection of some of my submissions to codingame puzzles.
 | ---- | -------- |
 | [`graffiti-on-the-fence`](./puzzles/graffiti-on-the-fence.ts) | codingame |
 | [`dont-panic-episode-1`](./puzzles/dont-panic-episode-1.ts) | codingame |
+| [`power-of-thor-episode-1`](./puzzles/power-of-thor-episode-1.ts) | codingame |
