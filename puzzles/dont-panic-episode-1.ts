@@ -27,7 +27,7 @@
  while (true) {
    // `cloneFloor` = floor of the leading clone
    // `clonePos` = position of the leading clone on its floor
-   // `direction` = direction of the leading clone: LEFT or RIGHT
+   // `targetDirection` = direction of the leading clone: LEFT or RIGHT
    let [cloneFloorRaw, clonePosRaw, direction] = readline().split(' ')
    const cloneFloor = parseInt(cloneFloorRaw)
    const clonePos = parseInt(clonePosRaw)
